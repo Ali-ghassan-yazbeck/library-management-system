@@ -48,7 +48,7 @@ Library_Management_System_Java_Project/
 
 Author:
 -------
-Ali Ghassan Yazbek
+Ali Ghassan Yazbeck
 
 License:
 --------
