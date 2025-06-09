@@ -50,6 +50,4 @@ Author:
 -------
 Ali Ghassan Yazbeck
 
-License:
---------
-MIT License
+
